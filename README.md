@@ -7,4 +7,4 @@ the course (including a number of libraries).
 Steve will also have this material on a USB drive if the gods of the Internet are
 against us.
 
-Don't forget to let me know about any ideas you have for improvements to the code!
+Don't forget to let him know about any ideas you have for improvements to the code!
